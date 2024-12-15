@@ -1,0 +1,18 @@
+.idea
+gradle
+build.gradle
+course-info.yaml
+course-remote-info.yaml
+gradlew
+gradlew.bat
+settings.gradle
+.gradle
+Budget Manager/Analyzer
+Budget Manager/Count my money
+Budget Manager/Make a menu
+Budget Manager/Memorable purchases
+Budget Manager/Oh the things you can buy
+Budget Manager/lesson-info.yaml
+Budget Manager/task/build
+Budget Manager/task/out
+Budget Manager/task/purchases.txt

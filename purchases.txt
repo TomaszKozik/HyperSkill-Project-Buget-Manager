@@ -1,0 +1,4 @@
+200.0
+Food;Milk;20.0
+Food;Butter;30.0
+Clothes;shirt;90.05
